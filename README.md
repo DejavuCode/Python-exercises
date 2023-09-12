@@ -5,10 +5,13 @@ Here is a list of interactive Python exercises for beginners. All the exercises 
 
 Python Exercises for Basics and Variables – Part 1
 https://dejavucode.com/python-variable-exercises-1-2
+
 Python Exercises for Basics and Variables – Part 2
 https://dejavucode.com/python-variable-exercises-3-4
+
 Python Exercises for Basics and Variables – Part 3
 https://dejavucode.com/python-variable-exercises-5/
+
 Python Exercises for Basics and Variables – Part 4
 https://dejavucode.com/python-variable-exercises-6
 
