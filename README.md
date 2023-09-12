@@ -2,7 +2,7 @@
 Python exercises for beginners
 
 Here is a list of interactive Python exercises for beginners. All the exercises are categorized and structured.
-(You can take a look at this YouTube channel to see the answers explained by the instructor)
+(You can take a look at the YouTube channel to see the answers explained by the instructor)
 
 
 # Python Exercises for Basics and Variables
